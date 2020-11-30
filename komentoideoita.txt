@@ -1,0 +1,4 @@
+!bussi - postaa kanavalle seuraavat kolme yliopiston pysäkille tulevaa linjaa ja milloin ne olis pysäkillä,
+tähän on käsittääkseni aika helppo API
+
+!kastari ja muut ravintolat
