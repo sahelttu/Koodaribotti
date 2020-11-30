@@ -1,11 +1,12 @@
 # Koodaribotti
 
-HUOM! Turvallisuussyistä .env filun Token ei toimi.
+HUOM! Turvallisuussyistä .env filun Token ei toimi. Discordi tuhoaa nykyisen kun sen postaa nettiin
 
 # Komentoja & funktioita
 
 ## Valmiit
 !python - antaa linkin python dokkariin
+
 !milloinvappu - laskee päiviä vappuun
 
 
