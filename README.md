@@ -1,6 +1,6 @@
 # Koodaribotti
 
-HUOM! Turvallisuussyistä .env filun Token ei toimi. Discordi tuhoaa nykyisen kun sen postaa nettiin
+HUOM! Turvallisuussyistä .env filun Token ei toimi. Discordi tuhoaa nykyisen kun sen postaa nettiin.
 
 # Komentoja & funktioita
 
